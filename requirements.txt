@@ -1,0 +1,8 @@
+openai==0.28.0
+requests==2.31.0
+pandas==1.4.1
+scikit-learn==1.2.2
+sentence-transformers==2.2.2
+torch==1.10.0+cu111
+transformers==4.35.2
+nltk==3.6.5
